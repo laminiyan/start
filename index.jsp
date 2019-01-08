@@ -1,1 +1,1 @@
-hello
+<% document.write("hello")%>
