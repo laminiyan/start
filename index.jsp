@@ -1,9 +1,9 @@
 <html>	
-  <head>
-		<title>
-			It's fun
-		</title>
-	</head>
-	<body>
-	</body>
+ <head>
+  <title>
+   It's fun
+  </title>
+ </head>
+ <body>
+ </body>
 </html>
