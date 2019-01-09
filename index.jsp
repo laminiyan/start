@@ -1,2 +1,9 @@
-<%@ page language="java" contentType="text/html;charset="utf-8" pageEncoding="utf-8" %>
-<% document.write("hello!!!!")%>
+<html>	
+  <head>
+		<title>
+			It's fun
+		</title>
+	</head>
+	<body>
+	</body>
+</html>
